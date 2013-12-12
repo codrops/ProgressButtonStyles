@@ -8,7 +8,7 @@ A set of flat and 3D progress button styles where the button itself serves as a 
 
 [Demo](http://tympanus.net/Development/ProgressButtonStyles/)
 
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
+Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is".
 
 Read more here: [License](http://tympanus.net/codrops/licensing/)
 
